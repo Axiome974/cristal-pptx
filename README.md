@@ -4,12 +4,13 @@
 [![GitHub issues](https://img.shields.io/github/issues/cristalTeam/pptx.svg?style=flat-square)](https://github.com/cristalTeam/pptx/issues)
 [![GitHub license](https://img.shields.io/github/license/cristalTeam/pptx.svg?style=flat-square)](https://github.com/cristalTeam/pptx/blob/master/LICENSE)
 
+This library is a fork of [Cristal PPTX](https://github.com/CristalTeam/pptx) with chart resource support.
 Cristal PPTX is a PHP Library that allows you to manipulate slides from a Powerpoint PPTX file. Copy slides inside another pptx and templating it using mustache tags.  
 
 ## :rocket: Installation using Composer
 
 ```bash
-composer require cristal/pptx
+composer require axiome974/cristal-pptx
 ```
 
 ## :eyes: Quick view 

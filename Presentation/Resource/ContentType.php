@@ -30,6 +30,7 @@ class ContentType extends GenericResource
         'application/vnd.openxmlformats-officedocument.theme+xml' => Theme::class,
         'application/vnd.openxmlformats-package.core-properties+xml' => XmlResource::class,
         'application/vnd.openxmlformats-officedocument.extended-properties+xml' => XmlResource::class,
+        'application/vnd.openxmlformats-officedocument.drawingml.chart+xml' => Chart::class,
         'image/png' => Image::class,
         'image/jpeg' => Image::class,
         'image/vnd.ms-photo' => Image::class,

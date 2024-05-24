@@ -1,9 +1,13 @@
 {
-    "name": "cristal/pptx",
+    "name": "axiome974/cristal-pptx",
     "authors": [
         {
             "name": "Cristal",
             "email": "cristal@cpro.fr"
+        },
+        {
+            "name": "Axiome974",
+            "email": "damien.carreno@gmail.com"
         }
     ],
     "license": "MIT",
